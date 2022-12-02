@@ -4,5 +4,5 @@
 "partialRestoreShortcut": "Ctrl+Alt+Shift+Z",
 "fullRestoreShortcut": "Ctrl+Alt+Shift+Z",
 "partialRestoreFields": [],
-"maxNotes": 100
+"maxNotes": 1000000
 }
