@@ -1,5 +1,7 @@
 # Field History Updated
 
+[Available on AnkiWeb.](https://ankiweb.net/shared/info/1590825981)
+
 ## Explanation
 
 This is a fork of Glutanimate's [Field History add-on](https://ankiweb.net/shared/info/1247884413), with some minor changes so it works on modern versions of Anki.
