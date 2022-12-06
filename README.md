@@ -20,18 +20,19 @@ Improves Anki's Add Notes dialog with:
 
 ### Windows
 
-`Ctrl + Alt + H`          Invoke history window\
-`Alt + Z`                 Copy over current field from last note\
-`Ctrl + Alt + Z`          Copy over a a number of user-defined fields (see below)\
-`Ctrl + Alt + Shift + Z`  Copy over all fields
-
+```
+Ctrl + Alt + H          Invoke history window
+Alt + Z                 Copy over current field from last note
+Ctrl + Alt + Z          Copy over a a number of user-defined fields (see below)
+Ctrl + Alt + Shift + Z  Copy over all fields
+```
 ### Mac
-
-`Cmd + O`                 Invoke history window\
-`Alt + Z`                 Copy over current field from last note\
-`Ctrl + Alt + Z`          Copy over a a number of user-defined fields (see below)\
-`Cmd + Alt + Shift + Z`   Copy over all fields
-
+```
+Cmd + O                 Invoke history window
+Alt + Z                 Copy over current field from last note
+Ctrl + Alt + Z          Copy over a a number of user-defined fields (see below)
+Cmd + Alt + Shift + Z   Copy over all fields
+```
 ## Configuration 
 
 Settings that may be customized include hotkey assignments and the list of selectively restored fields. Head to Tools → Add-ons, select the add-on in the list, and then click Config.
